@@ -7,9 +7,7 @@ ProbProject – Health Metrics Exploration in R
 A data-driven project analyzing various health-related metrics such as age, BMI, stress, physical activity, sleep, and disorders. Built using R, the project utilizes visualization techniques (histograms, pie charts, KDE, heatmaps, scatter plots) to uncover patterns and relationships. Designed for a Probability and Statistics course.
 
 📁 Project Structure
-bash
-Copy
-Edit
+
 ProbProject/
 ├── dataset.csv                     # Core dataset
 ├── project.R                       # Main R script for analysis
